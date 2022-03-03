@@ -5,8 +5,7 @@ Todos os direitos resevados<br>
 <div align="center"
 # **Komi-Bot**
 >Komi-bot, feita para te ajudar pelo WhatsApp!
->
->
+
 <h3 align="center">Tio Nescau</h3>
 <p align="center">
   <a href="https://github.com/SlavyanDesu"><img title="Autor" src="https://img.shields.io/badge/Autor-Tio%20Nescau-purple.svg?style=for-the-badge&logo=github" /></a>
