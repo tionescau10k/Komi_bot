@@ -19,9 +19,9 @@ Todos os direitos resevados<br>
 </h4>
 </div>
 # Requiridos
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
+* [Node.js](https://nodejs.org/en/)<br>
+* [Git](https://git-scm.com/downloads)<br>
+* [FFmpeg](https://www.gyan.dev/ffmpeg/builds/)<br>
 * É um editor de texto <a href="https://code.visualstudio.com/">Link direto para o site</a></p> 
 
 # Instalação
