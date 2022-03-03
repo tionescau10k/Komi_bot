@@ -17,8 +17,7 @@ Todos os direitos resevados
 </p>
 
 <p align="center">
-  <a href="https://github.com/tionescau10k/Komi_bot/network/members"><img title="Compartilhamentos" src="https://img.shields.io/github/forks/SlavyanDesu/BocchiBot?color=red&style=flat-square" /></a>
-  <a href="https://www.npmjs.com/package/@open-wa/wa-automate"><img src="https://img.shields.io/npm/v/@open-wa/wa-automate.svg?color=green" />reg</a>
+  <a href="https://www.npmjs.com/package/@open-wa/wa-automate"><img src="https://img.shields.io/npm/v/@open-wa/wa-automate.svg?color=green" /></a>
   <img src="https://img.shields.io/node/v/@open-wa/wa-automate" />
 </p>
 
