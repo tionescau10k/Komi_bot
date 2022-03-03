@@ -1,6 +1,6 @@
 # Komi_bot
 Copyright (c) 2022 tionescau10k
-Todos os direitos resevados 
+Todos os direitos resevados<br>
 *Zap Zap do dono do bot <a href="Wa.me/559889110607">link direto</a></p> 
 <div align="center"
 
