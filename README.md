@@ -3,33 +3,22 @@ Copyright (c) 2022 tionescau10k
 Todos os direitos resevados<br>
 *Zap Zap do dono do bot* <a href="Wa.me/559889110607">link direto</a></p> 
 <div align="center"
-
 # **Komi-Bot**
-
 >Komi-bot, feita para te ajudar pelo WhatsApp!
 >
 >
-
 <h3 align="center">Tio Nescau</h3>
-
 <p align="center">
   <a href="https://github.com/SlavyanDesu"><img title="Autor" src="https://img.shields.io/badge/Autor-Tio%20Nescau-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
-
 <p align="center">
   <a href="https://www.npmjs.com/package/@open-wa/wa-automate"><img src="https://img.shields.io/npm/v/@open-wa/wa-automate.svg?color=green" /></a>
   <img src="https://img.shields.io/node/v/@open-wa/wa-automate" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/SlavyanDesu/BocchiBot#license">License</a>
-</p>
-
 <h4 align="center">
   <a href="linktr.ee/komi_bot_">linktree da bot!</a>
 </h4>
 </div>
-
 # Requiridos
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
