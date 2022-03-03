@@ -1,5 +1,4 @@
 # Komi_bot
-linktr.ee/Komi_bot
 Copyright (c) 2022 tionescau10k
 Todos os direitos resevados 
 <div align="center"
@@ -22,9 +21,6 @@ Todos os direitos resevados
 </p>
 
 <p align="center">
-  <a href="https://github.com/SlavyanDesu/BocchiBot#installation">Installation</a> •
-  <a href="https://github.com/SlavyanDesu/BocchiBot#features">Features</a> •
-  <a href="https://github.com/SlavyanDesu/BocchiBot#thanks-to">Thanks to</a> •
   <a href="https://github.com/SlavyanDesu/BocchiBot#license">License</a>
 </p>
 
@@ -37,8 +33,7 @@ Todos os direitos resevados
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
-* [Tesseract](https://s.id/vftesseract)
-* Any text editor
+* É um editor de texto <a href="https://code.visualstudio.com/">Aperte aqui</a></p> 
 
 # Instalação
 ## 📝 Upload do bot
