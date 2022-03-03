@@ -22,7 +22,7 @@ Todos os direitos resevados<br>
 * [Node.js](https://nodejs.org/en/)<br>
 * [Git](https://git-scm.com/downloads)<br>
 * [FFmpeg](https://www.gyan.dev/ffmpeg/builds/)<br>
-* É um editor de texto <a href="https://code.visualstudio.com/">Link direto para o site</a></p> 
+* E um editor de texto, recomendo o Vs code <a href="https://code.visualstudio.com/">Link direto para o site</a></p> 
 
 # Instalação
 ## 📝 Upload do bot
