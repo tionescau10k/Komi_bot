@@ -1,6 +1,7 @@
 # Komi_bot
 Copyright (c) 2022 tionescau10k
 Todos os direitos resevados 
+*Zap Zap do dono do bot <a href="Wa.me/559889110607">link direto</a></p> 
 <div align="center"
 
 # **Komi-Bot**
@@ -33,7 +34,7 @@ Todos os direitos resevados
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
-* É um editor de texto <a href="https://code.visualstudio.com/">Aperte aqui</a></p> 
+* É um editor de texto <a href="https://code.visualstudio.com/">Link direto para o site</a></p> 
 
 # Instalação
 ## 📝 Upload do bot
@@ -58,7 +59,5 @@ PM2:
 > pm2 start index.js
 > pm2 monit
 ```
-
-
 
 Depois disso, é só escanear o código QR usando seu WhatsApp em seu telefone e seja feliz com a komi!
